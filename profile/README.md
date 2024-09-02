@@ -1,4 +1,4 @@
-# Hi, we're RHS Robotics
+# Hi, we're Richland Robotics
 
 We are robotics team based in Richland, WA. We build robots to compete in the
 FIRST Tech Challenge (FTC), a global robotics competition for students grades
